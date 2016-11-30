@@ -1,0 +1,49 @@
+Probability: 0.200000
+Total Insertions: 18
+Total Deletions: 8
+Cycle:
+Q0 --> C4 --> Q1 --> C2 --> Q0
+
+
+Probability: 0.300000
+Total Insertions: 34
+Total Deletions: 24
+Cycle:
+Q0 --> C1 --> Q1 --> C3 --> Q0
+
+
+Probability: 0.400000
+Total Insertions: 22
+Total Deletions: 9
+Cycle:
+Q0 --> C3 --> Q1 --> C4 --> Q0
+
+
+Probability: 0.500000
+Total Insertions: 167
+Total Deletions: 154
+Cycle:
+Q0 --> C5 --> Q1 --> C4 --> Q0
+
+
+Probability: 0.600000
+Total Insertions: 76
+Total Deletions: 64
+Cycle:
+Q0 --> C2 --> Q1 --> C5 --> Q0
+
+
+Probability: 0.700000
+Total Insertions: 54
+Total Deletions: 48
+Cycle:
+Q0 --> C3 --> Q1 --> C1 --> Q0
+
+
+Probability: 0.800000
+Total Insertions: 141
+Total Deletions: 131
+Cycle:
+Q0 --> C1 --> Q1 --> C5 --> Q0
+
+
